@@ -19,8 +19,8 @@ I am particularly interested in **cloud infrastructure, distributed systems, AI-
 
 ## 🔗 Connect With Me  
 
-- 💼 **LinkedIn**: https://www.linkedin.com/in/helin-chaudhari  
-- 💻 **GitHub**: https://github.com/helin-chaudhari  
+- 💼 **LinkedIn**: https://www.linkedin.com/in/helin-chaudhari-b67014239/
+- 💻 **GitHub**: https://github.com/Helin1905
 - 📫 **Email**: helinchaudhari.1905@gmail.com  
 
 ---
