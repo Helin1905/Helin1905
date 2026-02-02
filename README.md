@@ -99,19 +99,6 @@ I am particularly interested in **cloud infrastructure, distributed systems, AI-
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=helin-chaudhari&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helin-chaudhari&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=helin-chaudhari&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 🚀 What I’m Currently Working On
 - Cloud-native full-stack applications  
 - AI/ML-powered analytics systems  
